@@ -1,0 +1,37 @@
+.Black{
+    /* float: right; */
+    display: table-cell;
+    font-size: medium;
+    color: white;
+    padding: 40px 40px 40px 40px;
+    height: 100%;
+    width: 50%;
+    
+    background-color: black;
+}
+/* .home{
+    width: 100%;
+    padding: 20px 200px 100px 40px;
+    background-color: rgb(118, 252, 118);
+} */
+body{
+    width: 100%;
+    background-color: rgb(13, 238, 126);
+}
+.Green{
+    /* float: left; */
+    
+    text-align: left;
+    display: table-cell;
+    font-size: medium;
+    color: white;
+    padding: 40px 40px 40px 40px;
+    height: 100%;
+    width:50%;
+    
+    background-image: linear-gradient(to right,rgb(47, 235, 47),cyan);
+}
+div{ 
+    display: inline-block;
+}
+   

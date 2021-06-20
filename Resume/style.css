@@ -1,0 +1,23 @@
+.left-page{
+    left :0 ;
+    position: relative;
+    background-color: aqua;
+    height: 100%;
+    width: 35%;
+}
+.resume{
+    background-color: black;
+    width: 80%;
+    
+    height: 100%;
+    padding: 5% 5% 20% 20%;
+    position: relative;
+}
+.right-page{
+    right: 0;
+    margin-left: 10%;
+    position: relative;
+    background-color: wheat;
+    height: 100%;
+    width: 35%;
+}

@@ -1,0 +1,22 @@
+.DarkMode{
+    color: white;
+    background-color: #121212;
+}
+tr:nth-child(2)
+{
+    background-color: darkgray;
+}
+tr:nth-child(1)
+{
+    background-color:darkslategrey;
+}
+h2{
+    border: 4\10px white;
+    background-image: linear-gradient(to left , violet ,indigo ,blue, green, yellow, orange, red);
+   text-shadow: 2px 2px 2px blue;
+
+}
+
+strong{
+    text-shadow: 2px 2px 2px grey;
+}
