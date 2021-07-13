@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>THA 8</h2>
+
+
+<p id="demo"></p>
+
+<script>
+const person = {
+  fullName: function() {
+    return this.firstName + " " + this.lastName;
+  }
+}
+
+const person1 = {
+  firstName:"Raghav",
+  lastName: "goel"
+}
+
+document.getElementById("demo").innerHTML = person.fullName.apply(person1); 
+</script>
+
+</body>
+</html>
+
